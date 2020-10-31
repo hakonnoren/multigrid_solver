@@ -69,9 +69,9 @@ if plotU:
 
 
 print("Conjugate gradient")
-display(table_cg)
+print(table_cg)
 print("Multigrid")
-display(table_mgv)
+print(table_mgv)
 print("Preconditioned conjugate gradient")
-display(table_pcg)
+print(table_pcg)
 
